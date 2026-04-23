@@ -59,7 +59,7 @@ social-to-lead-agent/
 
 ## How to Run Locally
 1. Clone the repository
-git clone <your-repo-link>
+git clone : https://github.com/ananya-ctrl/social-to-lead
 cd social-to-lead-agent
 
 2. Create a virtual environment
